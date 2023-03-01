@@ -1,4 +1,4 @@
-# LATIHAN3DPBO2023
+# LATIHAN4DPBO2023
 
 Saya Farah Balqist 2007339 mengerjakan Latihan 3 DPBO dalam mata kuliah Desain dan Pemrograman Berorientasi Objek 
 untuk keberkahanNya maka saya tidak melakukan kecurangan seperti yang telah dispesifikasikan. Aamiin
